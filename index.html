@@ -36,6 +36,13 @@
     button:hover {
       background-color: #45a049;
     }
+    #game {
+      margin-top: 40px;
+    }
+    input {
+      padding: 8px;
+      font-size: 16px;
+    }
   </style>
 </head>
 <body>
@@ -44,5 +51,29 @@
   <img src="images/01.png" />
 
   <button onclick="window.open('https://www.google.com', '_blank')">Go to Google</button>
+
+  <div id="game">
+    <h2>Guess the Number (1 to 10)</h2>
+    <input type="number" id="userGuess" min="1" max="10" />
+    <button onclick="checkGuess()">Submit</button>
+    <p id="result"></p>
+  </div>
+
+  <script>
+    const secretNumber = Math.floor(Math.random() * 10) + 1;
+
+    function checkGuess() {
+      const guess = parseInt(document.getElementById('userGuess').value);
+      const result = document.getElementById('result');
+      
+      if (isNaN(guess) || guess < 1 || guess > 10) {
+        result.textContent = 'Please enter a number between 1 and 10.';
+      } else if (guess === secretNumber) {
+        result.textContent = '🎉 Correct! You guessed it!';
+      } else {
+        result.textContent = '❌ Nope, try again!';
+      }
+    }
+  </script>
 </body>
 </html>
