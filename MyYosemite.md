@@ -7,7 +7,7 @@ After I graduated from fifth grade in 2025, my family and I decided that for sum
 ## Day 1, From home in WA to Oregon 8/3
 
 <div style="text-align: justify;">
-The first day of our road trip also happened to be my dad's 42<sup>nd</sup> birthday. My sister Ella and I wrote "HAPPY BIRTHDAY, DAD!" on a big whiteboard for him. I was really proud of it. We ate breakfast together and sang "happy birthday to you" to our dad. Afterwards, we got ready for our trip. We packed some food items, closed all the electricity and water, and unplugged all electric devices.
+The first day of our road trip also happened to be my dad's 42<sup>nd</sup> birthday. My sister Ella and I wrote "HAPPY BIRTHDAY, DAD!" on a big whiteboard for him. I was really proud of it. We ate breakfast together and sang "happy birthday to you" to our dad. Afterwards, we got ready for our trip. We packed some food items, turned off all the electricity and water, and unplugged all electrical devices. 
 </div>
 
 ## Day 2 Crater Lake NP, Oregon 8/4
