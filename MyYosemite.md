@@ -13,9 +13,9 @@
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Suddenly, my dad drove us off the freeway and onto a smaller road. He told us that we were going to see a rose garden called "International Rose Test Garden". At first, I was a little worried that my allergies would start up, and they did, but not as much as I thought they would. The roses were so beautiful! There were so many colors and shapes and sizes and smells. I saw a minuscule yellow flower that looked nothing like a rose next to an enormous bright pink blossom with a lovely scent. My favorite flower was a large orange blossom with pink edges that smelled like jasmine tea. My dad's favorite rose was labeled as Portland's Best Rose!
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;After a while, we walked over to the playground. The structure had an enormous, living tree in the middle of it! It provided shade from the blazing sun. Ella and I played for a while, but she kept nagging me, so I got annoyed and ditched her. Then we went 
+&nbsp;&nbsp;&nbsp;&nbsp;After a while, we walked over to the playground. The structure had an enormous, living tree in the middle of it! It provided shade from the blazing sun. Ella and I played for a while, but she kept nagging me, so I got annoyed and ditched her. Then we went to eat the popsicles my dad packed, but aparantly we didn't put enough ice in the cooler, so they were all melted.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Soon, we drove onto a mountain and the temperature started dropping, which felt nice. Google Maps almost drove us past our campground, and when we finally got there, it was full of mosquitoes! I stepped out of the car with my dad and immediately got a bite on my leg, which was super annoying. We got back into the car and 
+&nbsp;&nbsp;&nbsp;&nbsp;Soon, we drove onto a mountain and the temperature started dropping, which felt nice. Google Maps almost drove us past our campground, and when we finally got there, it was full of mosquitoes! I stepped out of the car with my dad and immediately got a bite on my leg, which was super annoying. We got back into the car and drove to the nearest town to find a hotel.
 </div>
 
 ## Day 2 Crater Lake NP, Oregon 8/4

@@ -5,7 +5,7 @@ Basic info:
 
 # Day 1, 8/3, WA -> Oregon
 * Eat: Sushi ($50.38)
-* Places: International Rose Test Garden in Portland, OR 
+* Places: International Rose Test Garden in Portland, OR
 * Stay: ~~Crescent Creek Campground~~, Crescent, OR  Crescent Motel ($140)
 
 # Day 2, 8/4, Oregon
