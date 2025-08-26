@@ -4,14 +4,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;After I graduated from fifth grade in 2025, my family and I decided that for summer break, we would have a road trip from home to Yosemite NP in California in August. We origanally planned to be camping for almost every night, but we ended up mostly sleeping in hotels and inns whenever we couldn't snag a good campsite. This trip was very fun and exciting, so I decided to write a journal about it.
 </div>
 
-## Day 1, From home in Washington to Oregon 8/3
+## Day 1, From home in Washington to Crecent, Oregon 8/3
 
 <div style="text-align: justify;">
-&nbsp;&nbsp;&nbsp;&nbsp;The first day of our road trip also happened to be my dad's 42<sup>nd</sup> birthday. My sister Ella and I wrote "HAPPY BIRTHDAY, DAD!" on a big whiteboard for him. I was really proud of it. We ate breakfast together and sang "happy birthday to you" to our dad. Afterwards, we got ready for our trip. We packed some food items, turned off all the electricity and water, and unplugged all electrical devices. We quadruple-checked everything, and STILL left behind and umbrella and a rice roll.
+&nbsp;&nbsp;&nbsp;&nbsp;The first day of our road trip also happened to be my dad's 42<sup>nd</sup> birthday. My sister Ella and I wrote "HAPPY BIRTHDAY, DAD!" on a big whiteboard for him. I was really proud of it. We ate breakfast together and sang "happy birthday to you" to our dad. Afterwards, we got ready for our trip. We packed some food items, turned off all the electricity and water, and unplugged all electrical devices. We quadruple-checked everything, and STILL left behind an umbrella and a rice roll.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;We drove onto the freeway, heading south for Oregan. The southern border of Washinton/Oregan is the Columbia river, so we were able to see it. It's so big! The sun beat down mercilessly on our car, roasting all of us inside it. My mom got carsick, and I got... heatsick?!
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Soon, we drove onto a mountain and the temperature started dropping, which felt nice. Google Maps almost drove us past our campground.
+&nbsp;&nbsp;&nbsp;&nbsp;Suddenly, my dad drove us off the freeway and onto a smaller road. He told us that we were going to see a rose garden. At first, I was a little worried that my allergies would start up, and they did, but not as much as I thought they would. 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Soon, we drove onto a mountain and the temperature started dropping, which felt nice. Google Maps almost drove us past our campground, and when we finally got there, it was full of mosquitoes! I stepped out of the car with my dad and immediately got a bite on my leg, which was super annoying. We got back into the car and 
 </div>
 
 ## Day 2 Crater Lake NP, Oregon 8/4

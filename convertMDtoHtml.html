@@ -12,6 +12,7 @@
         // Get md file name from URL parameters
         const params = new URLSearchParams(window.location.search);
         const mdFile = params.get('md');
+        const myColor=params.get('color') || 'black';
         if (mdFile) {
             fetch(mdFile)
                 .then(response => response.text())
@@ -24,6 +25,8 @@
         } else {
             document.getElementById('content').textContent = 'No Markdown file specified.';
         }
+
+        document.getElementById('content').style.color = myColor;
     </script>
 </body>
 </html>
