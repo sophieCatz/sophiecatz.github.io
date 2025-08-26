@@ -7,11 +7,13 @@
 ## Day 1, From home in Washington to Crecent, Oregon 8/3
 
 <div style="text-align: justify;">
-&nbsp;&nbsp;&nbsp;&nbsp;The first day of our road trip also happened to be my dad's 42<sup>nd</sup> birthday. My sister Ella and I wrote "HAPPY BIRTHDAY, DAD!" on a big whiteboard for him. I was really proud of it. We ate breakfast together and sang "happy birthday to you" to our dad. Afterwards, we got ready for our trip. We packed some food items, turned off all the electricity and water, and unplugged all electrical devices. We quadruple-checked everything, and STILL left behind an umbrella and a rice roll.
+&nbsp;&nbsp;&nbsp;&nbsp;The first day of our road trip also happened to be my dad's 42<sup>nd</sup> birthday. My sister Ella and I wrote "HAPPY BIRTHDAY, DAD!" on a big whiteboard for him. I was really proud of it. We ate breakfast together and sang "happy birthday to you" to our dad. Afterwards, my family and I got ready for our trip. We packed some food items, turned off all the electricity and water, and unplugged all electrical devices. We quadruple-checked everything, and STILL left behind an umbrella and a rice roll.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;We drove onto the freeway, heading south for Oregan. The southern border of Washinton/Oregan is the Columbia river, so we were able to see it. It's so big! The sun beat down mercilessly on our car, roasting all of us inside it. My mom got carsick, and I got... heatsick?!
+&nbsp;&nbsp;&nbsp;&nbsp;We drove onto the freeway, heading south for Oregan. The southern border of Washinton/Oregan is the Columbia river, so we were able to see it. It's so big! The sun beat down mercilessly on our car, roasting all of us inside it. My mom got super carsick, and I got... heatsick?!
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Suddenly, my dad drove us off the freeway and onto a smaller road. He told us that we were going to see a rose garden. At first, I was a little worried that my allergies would start up, and they did, but not as much as I thought they would. 
+&nbsp;&nbsp;&nbsp;&nbsp;Suddenly, my dad drove us off the freeway and onto a smaller road. He told us that we were going to see a rose garden called "International Rose Test Garden". At first, I was a little worried that my allergies would start up, and they did, but not as much as I thought they would. The roses were so beautiful! There were so many colors and shapes and sizes and smells. I saw a minuscule yellow flower that looked nothing like a rose next to an enormous bright pink blossom with a lovely scent. My favorite flower was a large orange blossom with pink edges that smelled like jasmine tea. My dad's favorite rose was labeled as Portland's Best Rose!
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;After a while, we walked over to the playground. The structure had an enormous, living tree in the middle of it! It provided shade from the blazing sun.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Soon, we drove onto a mountain and the temperature started dropping, which felt nice. Google Maps almost drove us past our campground, and when we finally got there, it was full of mosquitoes! I stepped out of the car with my dad and immediately got a bite on my leg, which was super annoying. We got back into the car and 
 </div>
