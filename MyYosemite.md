@@ -15,7 +15,9 @@
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;After a while, we walked over to the playground. The structure had an enormous, living tree in the middle of it! It provided shade from the blazing sun. Ella and I played for a while, but she kept nagging me, so I got annoyed and ditched her. Then we went to eat the popsicles my dad packed, but aparantly we didn't put enough ice in the cooler, so they were all melted.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Soon, we drove onto a mountain and the temperature started dropping, which felt nice. Google Maps almost drove us past our campground, and when we finally got there, it was full of mosquitoes! I stepped out of the car with my dad and immediately got a bite on my leg, which was super annoying. We got back into the car and drove to the nearest town to find a hotel.
+&nbsp;&nbsp;&nbsp;&nbsp;Soon, we drove onto a mountain and the temperature started dropping, which felt nice. Google Maps almost drove us past our campground, and when we finally got there, it was full of mosquitoes! I stepped out of the car with my dad and immediately got a bite on my leg, which was super annoying. We got back into the car and drove to the nearest town to find a hotel. 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;My mom found a place called "Cresent Motel" on Google Maps. My dad and I talked to the owner of the motel and got a room for the night. It was a smallish, cozy, and comfortable room with red blankets on the two queen beds, loud air conditioning, and a large, damp bathroom with a shower. By the time we were done moving everything into the room, it was already 10:30 pm, and honestly, I could've fallen asleep on the ground.
 </div>
 
 ## Day 2 Crater Lake NP, Oregon 8/4
