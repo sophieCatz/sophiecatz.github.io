@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Markdown to HTML</title>
+    <title>placeholder</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
@@ -12,7 +12,10 @@
         // Get md file name from URL parameters
         const params = new URLSearchParams(window.location.search);
         const mdFile = params.get('md');
-        const myColor=params.get('color') || 'black';
+        const title = params.get('title') || 'No title';
+        document.title = title;
+        const myColor = params.get('color') || 'black';
+        
         if (mdFile) {
             fetch(mdFile)
                 .then(response => response.text())
@@ -20,7 +23,7 @@
                     document.getElementById('content').innerHTML = marked.parse(md);
                 })
                 .catch(err => {
-                    document.getElementById('content').textContent = 'Error loading Markdown file.';
+                    document.getElementById('content').textContent = 'Error loading Markdown file.' + err;
                 });
         } else {
             document.getElementById('content').textContent = 'No Markdown file specified.';
