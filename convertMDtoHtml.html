@@ -5,6 +5,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>placeholder</title>
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        body {
+            background: #f9f9f9;
+            font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        #content {
+            text-align: justify;
+            max-width: 700px;
+            margin: 40px auto 40px auto;
+            background: #fff;
+            padding: 32px 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+            min-height: 60vh;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            margin-top: 1.5em;
+            margin-bottom: 0.5em;
+        }
+        p {
+            line-height: 1.7;
+            margin: 1em 0;
+            text-indent: 2em; /* Indent for paragraphs */
+        }
+        @media (max-width: 800px) {
+            #content {
+                max-width: 98vw;
+                padding: 16px 8px;
+            }
+        }
+    </style>
 </head>
 <body>
     <div id="content"></div>
