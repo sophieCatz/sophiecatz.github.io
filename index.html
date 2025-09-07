@@ -4,27 +4,61 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sophie's Website</title>
+    <style>
+        body {
+            background: #f9f9f9;
+            font-family: 'Segoe UI', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        #content {
+            text-align: justify;
+            max-width: 700px;
+            margin: 40px auto 40px auto;
+            background: #fff;
+            padding: 32px 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+            min-height: 60vh;
+        }
+        h1, h2, h3, h4, h5, h6 {
+            margin-top: 1.5em;
+            margin-bottom: 0.5em;
+        }
+        p {
+            line-height: 1.7;
+            margin: 1em 0;
+            text-indent: 2em;
+        }
+        @media (max-width: 800px) {
+            #content {
+                max-width: 98vw;
+                padding: 16px 8px;
+            }
+        }
+    </style>
 </head>
 <body>
-    <h1>Welcome to Sophie's Website</h1>
-    <h2>About Me</h2>
-    <div>
-        <p>Hello! I'm Sophie, and I love coding and cats. This is my personal website where I share my projects and interests.</p>
+    <div id="content">
+        <h1>Welcome to Sophie's Website</h1>
+        <h2>About Me</h2>
+        <div>
+            <p>Hello! I'm Sophie, and I love coding and cats, and books! I am 11 yrs old and I enjoy learning, creating, and exploring new things. This is my personal website where I share my projects, opinions, and interests.</p>
+        </div>
+        <h2>Piano Stats</h2>
+        <p>Check out my <a href="piano.html" target="_blank">piano page</a> for some musical fun!</p>
+        <h2>Schoolwork Showcases</h2>
+        <p>Check out my <a href="homework.html" target="_blank">homework page</a> for some academic insights!</p>
+        <h2>My Trips</h2>
+        <p>Here are some of the places I've visited:</p>
+        <ul>
+            <li><a href="convertMDtoHtml.html?md=MyYosemite.md&title=My Trip to Yosemite National Park" target="_blank">Yosemite National Park, USA</a></li>
+            <li><a href="convertMDtoHtml.html?md=MyYellowstone.md&title=My Trip to Yellowstone National Park" target="_blank">Yellowstone National Park, USA</a></li>
+            <li><a href="convertMDtoHtml.html?md=MyOlympic.md&title=My Trip to Olympic National Park" target="_blank">Olympic National Park, USA</a></li>
+            <li><a href="convertMDtoHtml.html?md=MyRainier.md&title=My Trip to Rainier National Park" target="_blank">Rainier National Park, USA</a></li>
+        </ul>
+        <h2>Free Sudoku</h2>
+        <a href="Sudoku.html" target="_blank">Click here to play free sudoku!</a>
     </div>
-    <h2>Piano Stats</h2>
-    <p>Check out my <a href="piano.html" target="_blank">piano page</a> for some musical fun!</p>
-    <h2>Schoolwork Showcases</h2>
-    <p>Check out my <a href="homework.html" target="_blank">homework page</a> for some academic insights!</p>
-    <h2>My Trips</h2>
-    <p>Here are some of the places I've visited:</p>
-    <ul>
-        <li><a href="convertMDtoHtml.html?md=MyYosemite.md&title=My Trip to Yosemite National Park" target="_blank">Yosemite National Park, USA</a></li>
-        <li><a href="convertMDtoHtml.html?md=MyYellowstone.md&title=My Trip to Yellowstone National Park" target="_blank">Yellowstone National Park, USA</a></li>
-        <li><a href="convertMDtoHtml.html?md=MyOlympic.md&title=My Trip to Olympic National Park" target="_blank">Olympic National Park, USA</a></li>
-        <li><a href="convertMDtoHtml.html?md=MyRainier.md&title=My Trip to Rainier National Park" target="_blank">Rainier National Park, USA</a></li>
-    </ul>
-    <h2>Free Sudoku</h2>
-    <a href="Sudoku.html" target="_blank">Click here to play free sudoku!</a>
-    <!-- <h2>Homework Showcases✅</h2> -->
 </body>
 </html>
